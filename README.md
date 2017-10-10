@@ -27,7 +27,7 @@ Next, I checked the average reward for each episode.
 
 When setting the value of *k* to be 3, it shows the best performance.
 
-The detail is described in averaged_dqn_analysis.ipynb.
+The detail is described in [averaged_dqn_analysis.ipynb](https://github.com/smayru/Averaged-DQN/blob/master/averaged_dqn_analysis.ipynb "averaged_dqn_analysis.ipynb").
 
 
 
